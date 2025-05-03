@@ -2,7 +2,7 @@
 
 > Simulate a multi-agent investment strategy powered by legendary investor personas and real-time data. Built for experimentation, education, and showcasing AI-driven portfolio logic.
 
-![Dashboard Screenshot](screenshot4.png)
+![Dashboard Screenshot](screenshot1.png)
 
 ---
 
